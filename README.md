@@ -4,6 +4,9 @@ Nevara is a lightweight and modern terminal emulator written in Golang , designe
 
 ## Features (Planning On)
     - Fast Terminal Rendering
+    - Image Rendering
+    - Multiple Themes support
+    - Vim support
     - Keyboard Input handlers
     - Cross platform support (initially for Linux Users)
 
