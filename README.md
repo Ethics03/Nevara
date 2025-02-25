@@ -1,6 +1,7 @@
 
-
+<div align="center">
 <img src="./logo/dragon.png" alt="Logo" width="200">
+</div>
 
 # Nevara - A Modern Terminal Emulator in Rust
 
