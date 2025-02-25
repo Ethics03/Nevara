@@ -1,3 +1,7 @@
+
+
+<img src="./logo/dragon.png" alt="Logo" width="200">
+
 # Nevara - A Modern Terminal Emulator in Rust
 
 Nevara is a lightweight and modern terminal emulator written in Rust, designed for Linux.
