@@ -3,13 +3,13 @@
 <img src="./logo/dragon.png" alt="Logo" width="200">
 </div>
 
-# Nevara - A Modern Terminal Emulator in Rust
+# Nevara - A Modern Terminal Emulator in Go
 
-Nevara is a lightweight and modern terminal emulator written in Rust, designed for Linux.
+Nevara is a lightweight and modern terminal emulator written in Go.
 
 ## Features (Planned)
 -  Fast Terminal Rendering  
--  Image Rendering  
+-  AI-Based Auto-Completion and suggestion system
 -  Multiple Themes Support  
 -  Vim Mode Support  
 -  Keyboard Input Handlers  
@@ -20,5 +20,5 @@ Nevara is a lightweight and modern terminal emulator written in Rust, designed f
 ```sh
 git clone https://github.com/yourusername/nevara.git
 
-cd nevara
-cargo run
+cd nevara/nevterm/
+go run main.go
